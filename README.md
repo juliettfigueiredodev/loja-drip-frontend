@@ -47,6 +47,7 @@ A URL will appear in your terminal. Click on it to open the application in your 
 - **Vite** - Build tool and dev server
 - **JavaScript** - Programming language
 - **ESLint** - Code linting
+- **Tailwind** - Styling pages
 
 ## Project Structure
 
@@ -74,3 +75,7 @@ Feel free to fork this repository and submit pull requests with your improvement
 ## License
 
 This project is open source and available under the MIT License.
+
+## Development Team
+ Developed by Nazaré Almeida and Juliett Figueirêdo
+
