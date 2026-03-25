@@ -76,6 +76,6 @@ Feel free to fork this repository and submit pull requests with your improvement
 
 This project is open source and available under the MIT License.
 
-## Development Team
- Developed by Nazaré Almeida and Juliett Figueirêdo
+## Development Team 👩🏻‍💻
+ Developed by [Nazaré Almeida](https://github.com/nazare4lmeida) and Juliett Figueirêdo
 
