@@ -13,8 +13,8 @@ export const products = [
     image: "https://images-na.ssl-images-amazon.com/images/I/717fbeslx0L._AC_SR462,693_.jpg",
     images: [
       { src: "https://imgnike-a.akamaihd.net/360x360/0163497WA1.jpg" },
-      { src: "https://imgnike-a.akamaihd.net/360x360/0163497WA1_1.jpg" },
-      { src: "https://imgnike-a.akamaihd.net/360x360/0163497WA1_2.jpg" }
+      { src: "https://imgcentauro-a.akamaihd.net/1200x1200/98807201A9.jpg" },
+      { src: "https://cdn.awsli.com.br/600x450/1900/1900104/produto/317216577/img_2256-vg0nwnqlep.jpeg" }
     ],
     category: "Tênis",
     gender: "Unissex",
@@ -36,9 +36,9 @@ export const products = [
     description: "Tênis Adidas com tecnologia de amortecimento.",
     image: "https://authenticfeet.vtexassets.com/arquivos/ids/434723-800-800?v=638562278565370000&width=800&height=800&aspect=true",
     images: [
-      { src: "https://imgadidas-a.akamaihd.net/360x360/0163498WA1.jpg" },
-      { src: "https://imgadidas-a.akamaihd.net/360x360/0163498WA1_1.jpg" },
-      { src: "https://imgadidas-a.akamaihd.net/360x360/0163498WA1_2.jpg" }
+      { src: "https://static.netshoes.com.br/produtos/tenis-adidas-ultraboost-5-masculino/20/FB9-8787-020/FB9-8787-020_zoom1.jpg?ts=1773918719" },
+      { src: "https://images.tcdn.com.br/img/img_prod/1303097/tenis_adidas_ultraboost_5_masculino_88169_variacao_330993_2_39314b6b81d51da82093914acb3c759c.jpg" },
+      { src: "https://nortista.vtexassets.com/arquivos/ids/317554/Tenis-Adidas-Ultraboost-5-%7C-Masculino-P01.jpg?v=638634905012000000" }
     ],
     category: "Tênis",
     gender: "Unissex",
@@ -60,9 +60,9 @@ export const products = [
     description: "Tênis Puma com design retrô e conforto.",
     image: "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/394302/51/sv01/fnd/BRA/w/1000/h/1000/fmt/png",
     images: [
-      { src: "https://imgpuma-a.akamaihd.net/360x360/0163499WA1.jpg" },
-      { src: "https://imgpuma-a.akamaihd.net/360x360/0163499WA1_1.jpg" },
-      { src: "https://imgpuma-a.akamaihd.net/360x360/0163499WA1_2.jpg" }
+      { src: "https://http2.mlstatic.com/D_NQ_NP_667527-MLB93981372951_102025-O-tnis-puma-rs-x-mono-metal-white-casual.webp" },
+      { src: "https://authenticfeet.vtexassets.com/arquivos/ids/428173/39430-2-050-1.jpg?v=638539933135830000" },
+      { src: "https://d1yskurxmiki17.cloudfront.net/Custom/Content/Products/90/47/904753_puma-rs-x-mix-394302-52-4386-238_m4_638812952421338275.webp" }
     ],
     category: "Tênis",
     gender: "Unissex",
@@ -82,11 +82,11 @@ export const products = [
     price: 249.99,
     priceDiscount: 179.99,
     description: "Tênis New Balance clássico e versátil.",
-    image: "https://cdn.bnws3.com.br/b2online.com.br/image/cache/data/produtos/new-balance/masculino/tenis-new-balance-574-v2-masculino-vinho---cinza-8784-24-01-24-00-1200x1200.jpg",
+    image: "https://cdn.bnws3.com.br/b2online.com.br/image/cache/data/produtos/new-balance/unissex/tenis-new-balance-574-v2-unissex-vinho---branco-13286-24-10-07-1200x1200.jpg",
     images: [
-      { src: "https://imgnewbalance-a.akamaihd.net/360x360/0163500WA1.jpg" },
-      { src: "https://imgnewbalance-a.akamaihd.net/360x360/0163500WA1_1.jpg" },
-      { src: "https://imgnewbalance-a.akamaihd.net/360x360/0163500WA1_2.jpg" }
+      { src: "https://cdn.vnda.com.br/mariacanela/2024/12/30/15_38_44_944_15_12_9_995_1.png?v=1735583924" },
+      { src: "https://images.tcdn.com.br/img/img_prod/769517/tenis_casual_new_balance_574v2_29523_1_73e117fcbb0fc616f6875688c7d7399c_20250514102253.jpg" },
+      { src: "https://www.dopecalcados.com.br/cdn/imagens/produtos/det/-66bba9f208e9e.jpeg" }
     ],
     category: "Tênis",
     gender: "Unissex",
@@ -106,11 +106,11 @@ export const products = [
     price: 399.99,
     priceDiscount: 299.99,
     description: "Tênis Asics com suporte e estabilidade.",
-    image: "https://asicsbr.vteximg.com.br/arquivos/ids/2744214-1000-1000/null.jpg",
+    image: "https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/spacetennis/media/uploads/produtos/foto/ssyokwpk/a1.jpg",
     images: [
-      { src: "https://imgasics-a.akamaihd.net/360x360/0163501WA1.jpg" },
-      { src: "https://imgasics-a.akamaihd.net/360x360/0163501WA1_1.jpg" },
-      { src: "https://imgasics-a.akamaihd.net/360x360/0163501WA1_2.jpg" }
+      { src: "https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/spacetennis/media/uploads/produtos/foto/ssyokwpk/a1.jpg" },
+      { src: "https://cdn.vnda.com.br/velocita/2024/01/26/09_27_40_43_9_1_7_753_1012b3577021.jpg?v=1706272079" },
+      { src: "https://droper-media.us-southeast-1.linodeobjects.com/2872023145836200.webp" }
     ],
     category: "Tênis",
     gender: "Unissex",
@@ -132,9 +132,9 @@ export const products = [
     description: "Tênis Reebok com design atemporal.",
     image: "https://static.hupishop.com.br/public/hupibikes/imagens/produtos/tenis-reebok-classic-nylon-bege-feminino-667d9a2cdd458.jpg",
     images: [
-      { src: "https://imgreebok-a.akamaihd.net/360x360/0163502WA1.jpg" },
-      { src: "https://imgreebok-a.akamaihd.net/360x360/0163502WA1_1.jpg" },
-      { src: "https://imgreebok-a.akamaihd.net/360x360/0163502WA1_2.jpg" }
+      { src: "https://static.hupishop.com.br/public/hupibikes/imagens/produtos/tenis-reebok-classic-nylon-bege-feminino-667d9a2cdd458.jpg" },
+      { src: "https://cdn.bnws3.com.br/b2online.com.br/image/cache/data/produtos/reebok/masculino/tenis-reebok-classic-leather-masculino-marrom---preto-15204-25-06-09-01-1200x1200.jpg" },
+      { src: "https://shop2gether.fbitsstatic.net/img/p/tenis-masculino-classic-leather-azul-210306/568654.jpg?w=1225&h=1633&v=no-value" }
     ],
     category: "Tênis",
     gender: "Unissex",
@@ -156,9 +156,9 @@ export const products = [
     description: "Tênis Vans com estilo skater clássico.",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBJ4a69-eDi4bOCihhjxFyiC9WWKC9krq3A&s",
     images: [
-      { src: "https://imgvans-a.akamaihd.net/360x360/0163503WA1.jpg" },
-      { src: "https://imgvans-a.akamaihd.net/360x360/0163503WA1_1.jpg" },
-      { src: "https://imgvans-a.akamaihd.net/360x360/0163503WA1_2.jpg" }
+      { src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBJ4a69-eDi4bOCihhjxFyiC9WWKC9krq3A&s" },
+      { src: "https://acdn-us.mitiendanube.com/stores/001/115/376/products/101-5c6baa969a14db8da716195504705156-1024-1024.webp" },
+      { src: "https://defatosneakers.com.br/wp-content/uploads/2024/06/Tenis-Vans-Old-Skool-Preto-Branco-Classico-Defato-Sneakers-5.jpg" }
     ],
     category: "Tênis",
     gender: "Unissex",
@@ -180,9 +180,9 @@ export const products = [
     description: "Tênis Converse icônico e versátil.",
     image: "https://cloviscalcados.vteximg.com.br/arquivos/ids/1036233-1024-1024/Tenis-Masculino-Chuck-Taylor-Converse-All-Star-CT00040007-0320004_001-02.jpg?v=638364710577700000",
     images: [
-      { src: "https://imgconverse-a.akamaihd.net/360x360/0163504WA1.jpg" },
-      { src: "https://imgconverse-a.akamaihd.net/360x360/0163504WA1_1.jpg" },
-      { src: "https://imgconverse-a.akamaihd.net/360x360/0163504WA1_2.jpg" }
+      { src: "https://cloviscalcados.vteximg.com.br/arquivos/ids/1036233-1024-1024/Tenis-Masculino-Chuck-Taylor-Converse-All-Star-CT00040007-0320004_001-02.jpg?v=638364710577700000" },
+      { src: "https://converse.com.br/media/catalog/product/c/t/ct04190090_a_107x1.jpg" },
+      { src: "https://lojavirus.fbitsstatic.net/img/p/tenis-converse-chuck-taylor-all-star-core-hi-bordo-ct00040008-67799/265325.jpg?w=1200&h=1200&v=202510071708" }
     ],
     category: "Tênis",
     gender: "Unissex",
@@ -205,8 +205,8 @@ export const products = [
     image: "https://stamp.jetassets.com.br/produto/TS1722_2024-09-19_14_33_09_0.jpeg",
     images: [
         { src: "https://stamp.jetassets.com.br/produto/TS1722_2024-09-19_14_33_09_0.jpeg" },
-        { src: "https://exemplo.com/camisa_costas.jpg" },
-        { src: "https://exemplo.com/camisa_detalhe.jpg" }
+        { src: "https://hippieartesanatos.fbitsstatic.net/img/p/camiseta-joy-division-preta-123712/338719-1.jpg" },
+        { src: "https://hmrock.com.br/wp-content/uploads/2020/08/joydivision2.jpg" }
     ],
     category: "Camisetas",
     gender: "Unissex",
@@ -229,8 +229,8 @@ export const products = [
     image: "https://oqvestir.fbitsstatic.net/img/p/calca-feminina-mom-jeans-azul-178657/463134.jpg?w=1600&h=2133&v=202501231556",
     images: [
         { src: "https://oqvestir.fbitsstatic.net/img/p/calca-feminina-mom-jeans-azul-178657/463134.jpg?w=1600&h=2133&v=202501231556" },
-        { src: "https://exemplo.com/calca_costas.jpg" },
-        { src: "https://exemplo.com/calca_detalhe.jpg" }
+        { src: "https://http2.mlstatic.com/D_NQ_NP_799787-MLB85664619217_062025-O-calca-mom-jeans-feminina-cintura-alta-marmorizada.webp" },
+        { src: "https://ecolife.cdn.magazord.com.br/img/2021/02/produto/4239/112104-calca-jeans-mom-alice-costas-2.jpg?ims=560x840" }
     ],
     category: "Calças",
     gender: "Feminino",
@@ -253,8 +253,8 @@ export const products = [
     image: "https://http2.mlstatic.com/D_NQ_NP_662323-MLB78900818559_092024-O-bone-mst-brim-6-gomos-adulto.webp",
     images: [
         { src: "https://http2.mlstatic.com/D_NQ_NP_662323-MLB78900818559_092024-O-bone-mst-brim-6-gomos-adulto.webp" },
-        { src: "https://exemplo.com/bone_lado.jpg" },
-        { src: "https://exemplo.com/bone_tras.jpg" }
+        { src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqpj4fA61cHGQ7jrWaY9nsmK176CO2Xo4Dgg&s" },
+        { src: "https://http2.mlstatic.com/D_NQ_NP_995813-MLB45697776890_042021-O.webp" }
     ],
     category: "Bonés",
     gender: "Unissex",
@@ -277,8 +277,8 @@ export const products = [
     image: "https://m.media-amazon.com/images/I/61BDf8KO8AL.__AC_SX300_SY300_QL70_ML2_.jpg",
     images: [
         { src: "https://m.media-amazon.com/images/I/61BDf8KO8AL.__AC_SX300_SY300_QL70_ML2_.jpg" },
-        { src: "https://exemplo.com/headphone_lado.jpg" },
-        { src: "https://exemplo.com/headphone_dobrado.jpg" }
+        { src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGjjrcMwfxsF6Dd7v7siuAgLFjEGmeE9HMSQ&s" },
+        { src: "https://mirandacomputacao.jetassets.com.br/produto/multifotos/47118-4_47118.jpg" }
     ],
     category: "Headphones",
     gender: "Unissex",
@@ -287,5 +287,29 @@ export const products = [
     sizes: ["N/A"],
     colors: ["#000000", "#FFFFFF", "#0077b6"],
     relatedProducts: [11, 2]
+  },
+  {
+    id: 13,
+    title: "Fone de Ouvido Phillips",
+    name: "Fone De Ouvido Wireless Tws Philips Bluetooth",
+    reference: "Ref. TAT1139BK",
+    stars: 4.9,
+    rating: 542,
+    price: 209.90,
+    priceDiscount: 149.90,
+    description: "O Fone de Ouvido Philips TAT1139 é um modelo True Wireless que combina desempenho, conforto e praticidade. Com drivers de 13 mm, ele entrega graves potentes e som claro, ideal para músicas, vídeos e chamadas com mais qualidade. Já o seu design ergonômico proporciona encaixe confortável durante todo o uso, enquanto a proteção IPX4 garante resistência a respingos e suor, perfeito para treinos e uso ao ar livre.",
+    image: "https://www.havan.com.br/media/catalog/product/f/o/fone-de-ouvido-bluetooth-philips-tat1139_1198834.jpg",
+    images: [
+        { src: "https://www.havan.com.br/media/catalog/product/f/o/fone-de-ouvido-bluetooth-philips-tat1139_1198834.jpg" },
+        { src: "https://www.havan.com.br/media/catalog/product/cache/820af7facfa7aca6eb3c138e3457dc8d/f/o/fone-de-ouvido-bluetooth-philips-tat1139_1198835.webp" },
+        { src: "https://www.havan.com.br/media/catalog/product/cache/820af7facfa7aca6eb3c138e3457dc8d/f/o/fone-de-ouvido-bluetooth-philips-tat1139_1198838.webp" }
+    ],
+    category: "Headphones",
+    gender: "Unissex",
+    condition: "Novo",
+    brand: "Phillips",
+    sizes: ["N/A"],
+    colors: ["#000000", "#FFFFFF", "#0077b6"],
+    relatedProducts: [11, 1]
   }
 ];

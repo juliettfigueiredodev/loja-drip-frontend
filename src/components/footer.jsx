@@ -9,7 +9,7 @@ const Footer = () => {
         <div>
           <img src={LogoFooter} alt="Drip Store Logo" className="h-8 mb-4" />
           <p className="text-sm text-gray-400 mb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+            Esta é uma empresa dedicada a trazer os melhores produtos com os melhores preços a distância de um clique. Comprou, piscou, chegou!
           </p>
           <div className="flex space-x-4">
             <FaFacebookF className="text-white hover:text-pink-600 cursor-pointer" />
