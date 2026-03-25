@@ -1,16 +1,76 @@
-# React + Vite
+# Loja Drip Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**projeto de FrontEnd do GTech 3.0**
 
-Currently, two official plugins are available:
+A modern frontend application built with React and Vite, providing a fast and optimized development experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 **Live Demo**: [https://loja-drip-frontend-three.vercel.app](https://loja-drip-frontend-three.vercel.app)
 
-## React Compiler
+## Getting Started
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Prerequisites
+- Node.js (v16 or higher)
+- npm or yarn
 
-## Expanding the ESLint configuration
+### Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository:
+```bash
+git clone https://github.com/juliettfigueiredodev/loja-drip-frontend.git
+cd loja-drip-frontend
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+### Running the Development Server
+
+To start the development server, run:
+```bash
+npm run dev
+```
+
+A URL will appear in your terminal. Click on it to open the application in your browser.
+
+## Available Scripts
+
+- `npm run dev` - Start the development server with hot module reload (HMR)
+- `npm run build` - Build the project for production
+- `npm run preview` - Preview the production build locally
+- `npm run lint` - Run ESLint to check code quality
+
+## Tech Stack
+
+- **React** - UI library
+- **Vite** - Build tool and dev server
+- **JavaScript** - Programming language
+- **ESLint** - Code linting
+
+## Project Structure
+
+```
+src/
+├── components/    # React components
+├── pages/        # Page components
+├── assets/       # Static assets
+├── App.jsx       # Main App component
+└── main.jsx      # Entry point
+public/           # Public static files
+```
+
+## Plugins
+
+Currently, two official Vite plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) - Uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) - Uses [SWC](https://swc.rs/)
+
+## Contributing
+
+Feel free to fork this repository and submit pull requests with your improvements!
+
+## License
+
+This project is open source and available under the MIT License.
